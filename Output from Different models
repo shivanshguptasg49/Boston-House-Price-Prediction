@@ -1,0 +1,14 @@
+                                        Training Data rmse                         Testing Data rmse
+
+
+1. Linear Regression                    5.05514248243105                           4.143819554319327
+    
+
+2. Ridge Regression                     5.093841250531608                          4.152556389997367
+
+
+3. Decision Tree                        4.783763260585951                          3.9746253985531177
+    
+    
+4. Random Forest                        3.403983501134751                          2.9140119369397652
+     
